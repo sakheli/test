@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace Test_ragaca {
     class Program {
         static void Main(string[] args) {
+            Console.WriteLine("test");
         }
     }
 }
